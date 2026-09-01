@@ -1,6 +1,4 @@
-#Hi, I'm Alchie
-
-Fresh Computer Science graduate with hands-on experience building small applications and freelance projects throughout college. I focus on front-end development and enjoy contributing to real-world systems for local communities.
+I just got my Bachelors in Computer Science. I have experience building small applications and freelance projects throughout college. I focus on front-end development and enjoy contributing to real-world systems for local communities.
 
 BS in Computer Science, Andres Bonifacio College (2026)
 Front-end development with HTML, CSS, JavaScript, and Python
