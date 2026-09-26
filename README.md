@@ -2,6 +2,10 @@
 <h3 align="center">Front-end developer - HTML, CSS, JS, Python, Java</h3>
 
 <p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdzbTJoZGdlbmVjN3M2amI2aDc1cHlpM3IwcWhqNXBoOGFqeW9kbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XXq61Ah2XXtAWhYrIu/giphy.gif" width="300" alt="banner gif" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chie03-dev&label=Profile%20Views&color=36BCF7&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat" alt="open to work" />
 </p>
@@ -35,26 +39,28 @@ Right now I'm looking for my first full-time role and still sharpening my skills
 
 ### Featured project
 
-<a href="https://github.com/Chie03-dev/BizPalm-Mobile">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Chie03-dev&repo=BizPalm-Mobile&theme=tokyonight" />
-</a>
+**[BizPalm - Mobile Inventory System](https://github.com/Chie03-dev/BizPalm-Mobile)**
 
-**BizPalm - Mobile Inventory System**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/Chie03-dev/BizPalm-Mobile?style=flat-square&color=36BCF7" />
+</p>
+
 A mobile inventory management app built for my thesis. I worked on the front end - UI and database connections - and built the CRUD functionality in Kotlin and Java.
-
-<br clear="left"/>
 
 ---
 
 ### GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chie03-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chie03-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Chie03-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chie03-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chie03-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chie03-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -68,8 +74,4 @@ A mobile inventory management app built for my thesis. I worked on the front end
   <a href="http://www.linkedin.com/in/alchieandilab">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  Based in Glendale, Arizona - open to talking front-end, mobile apps, or PC builds.
 </p>
