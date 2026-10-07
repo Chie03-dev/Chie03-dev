@@ -16,8 +16,6 @@ BS Computer Science graduate (Andres Bonifacio College, 2026). I build practical
 
 I'm also into computer hardware. I build and troubleshoot PCs on the side, so if the code breaks, there's a decent chance I can fix the machine running it too.
 
-**Currently looking for my first full-time role in Android or front-end development.**
-
 ---
 
 ### Tech stack
@@ -44,7 +42,7 @@ I'm also into computer hardware. I build and troubleshoot PCs on the side, so if
   <img src="https://img.shields.io/github/stars/Chie03-dev/BizPalm-Mobile?style=flat-square&color=36BCF7" />
 </p>
 
-An **offline-first POS and inventory app** for small retail stores, sari-sari stores and pharmacies. It runs without an internet connection, so a store keeps working when the signal doesn't.
+An **POS and inventory app** for small retail stores, sari-sari stores. It runs without an internet connection, so a store keeps working when the signal doesn't.
 
 - **Stack:** Kotlin, Java, Room, MVVM, CameraX, ML Kit, MPAndroidChart, iText
 - **Highlights:** works fully offline, inventory and sales tracking, charts and PDF reports
@@ -65,7 +63,7 @@ An **offline-first POS and inventory app** for small retail stores, sari-sari st
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 </p>
 
-A resident-facing portal for barangay services: document requests, incident reporting, request tracking and an officials directory. Built as a **front-end showcase** (all data is mocked) with a glassmorphic design system, Framer Motion transitions and a mobile layout with a floating nav dock.
+A demo for my barangay services: document requests, incident reporting, request tracking and an officials directory. Built as a **front-end showcase** (all data is mocked) with a glassmorphic design system, Framer Motion transitions and a mobile layout with a floating nav dock.
 
 - **Stack:** Next.js 15, React 19, TypeScript (strict), Tailwind CSS v4, Framer Motion, deployed to Cloudflare Workers through OpenNext
 - **Highlights:** cinematic login with a 3D tilt card, bento dashboard with an SVG barangay map and community calendar, four-step document request flow, request timeline with a pick-up pass, three-tier officials org chart
