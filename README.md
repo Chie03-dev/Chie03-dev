@@ -122,8 +122,15 @@ An offline, LAN-only Android client for the instructor app, built with Kotlin an
 
 ### GitHub stats
 
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Chie03-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chie03-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chie03-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chie03-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
