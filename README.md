@@ -1,15 +1,3 @@
-<p align="center">
-  <img src="banner.svg" alt="Alchie, Android and Front-end Developer" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chie03-dev&label=Profile%20Views&color=36BCF7&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat" alt="open to work" />
-  <img src="https://img.shields.io/badge/BSCS-Andres%20Bonifacio%20College%20'26-7F52FF?style=flat" alt="education" />
-</p>
-
----
-
 ### About
 
 BS Computer Science graduate (Andres Bonifacio College, 2026). I build practical software: offline-first mobile apps, LAN-based classroom tools, polished front-end showcases, and barangay information systems for a startup in the Philippines.
@@ -27,7 +15,12 @@ I'm also into computer hardware. I build and troubleshoot PCs on the side, so if
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chie03-dev&label=Profile%20Views&color=36BCF7&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat" alt="open to work" />
+  <img src="https://img.shields.io/badge/BSCS-Andres%20Bonifacio%20College%20'26-7F52FF?style=flat" alt="education" />
+</p>
+---
 ### Projects
 
 #### BizPalm Mobile
